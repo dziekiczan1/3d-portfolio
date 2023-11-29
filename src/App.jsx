@@ -1,10 +1,11 @@
 import { Route, BrowserRouter as Router, Routes } from "react-router-dom";
+import Navbar from "./components/Navbar";
 
 const App = () => {
   return (
     <main className="bg-slate-300/20">
       <Router>
-        Navbar
+        <Navbar />
         <Routes>
           <Route path="/" element={<h1>Home</h1>} />
           <Route path="/about" element={<h1>About</h1>} />
