@@ -186,49 +186,49 @@ export const projects = [
   {
     iconUrl: pricewise,
     theme: "btn-back-red",
-    name: "Amazon Price Tracker",
+    name: "Syndicate Crime",
     description:
-      "Developed a web application that tracks and notifies users of price changes for products on Amazon, helping users find the best deals.",
-    link: "https://github.com/adrianhajdin/pricewise",
+      "Syndicate Crime is an immersive and thrilling mafia-themed game that puts you in the shoes of a mobster trying to climb the ranks of organized crime. Step into the dark underbelly of a sprawling city teeming with corruption, intrigue, and danger.",
+    link: "https://github.com/dziekiczan1/syndicateCrime",
   },
   {
     iconUrl: threads,
     theme: "btn-back-green",
-    name: "Full Stack Threads Clone",
+    name: "Peter's Portfolio",
     description:
-      'Created a full-stack replica of the popular discussion platform "Threads," enabling users to post and engage in threaded conversations.',
-    link: "https://github.com/adrianhajdin/threads",
+      "I am a self-taught person and I derive my knowledge from people more experienced in the industry. I currently live in Warsaw, and I focus all my free time on developing my skills and learning about new technologies that will make my projects even better.",
+    link: "https://github.com/dziekiczan1/portfolio",
   },
   {
     iconUrl: car,
     theme: "btn-back-blue",
-    name: "Car Finding App",
+    name: "eRZet",
     description:
-      "Designed and built a mobile app for finding and comparing cars on the market, streamlining the car-buying process.",
-    link: "https://github.com/adrianhajdin/project_next13_car_showcase",
+      "eRZet is a company that designs and creates websites for various industries. From the beginning of our activity, we have focused on providing the highest quality services, tailored to the individual needs of our clients. Our team consists of experienced specialists who have extensive knowledge in the field of website development. Thanks to their commitment and professionalism, we are able to provide our clients with the best solutions.",
+    link: "https://github.com/dziekiczan1/eRZet",
   },
   {
     iconUrl: snapgram,
     theme: "btn-back-pink",
-    name: "Full Stack Instagram Clone",
+    name: "TikTik",
     description:
-      "Built a complete clone of Instagram, allowing users to share photos and connect with friends in a familiar social media environment.",
-    link: "https://github.com/adrianhajdin/social_media_app",
+      "TikTik is your ultimate destination for a diverse and engaging experience in the world of short-form video content. Our platform mirrors the popular TikTok, offering a vibrant space for creativity, entertainment, and connection. From hilarious skits to heartfelt moments, TikTik caters to a wide array of interests and passions.",
+    link: "https://github.com/dziekiczan1/tiktik",
   },
   {
     iconUrl: estate,
     theme: "btn-back-black",
-    name: "Real-Estate Application",
+    name: "NBApp",
     description:
-      "Developed a web application for real estate listings, facilitating property searches and connecting buyers with sellers.",
-    link: "https://github.com/adrianhajdin/projects_realestate",
+      "In this application I focused on fetching the data from an API and handling the state with the help of Redux Toolkit. The user can check the details of his favorite team as well as the latest news from around the world. The current standings, last game results and the list of players are also available. For contact form I decided to use Herotofu.",
+    link: "https://github.com/dziekiczan1/nbapp",
   },
   {
     iconUrl: summiz,
     theme: "btn-back-yellow",
-    name: "AI Summarizer Application",
+    name: "Where To? Dive!",
     description:
-      "App that leverages AI to automatically generate concise & informative summaries from lengthy text content, or blogs.",
-    link: "https://github.com/adrianhajdin/project_ai_summarizer",
+      "Welcome to Where To? DIVE - a place where you can share and find the best diving spots from all over the world. Our website will help you find the best places in your area and more. Are you interested in wrecks, caves, or maybe beautiful coral reefs? You can find everything with us! Regardless of the level of your training. The website was created to share the best diving sites with people from all over the world.",
+    link: "https://github.com/dziekiczan1/dive",
   },
 ];
